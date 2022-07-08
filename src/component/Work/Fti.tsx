@@ -55,7 +55,7 @@ function Fti() {
                                             This project was built for competition, it was developed for the purpose of registration, data-storage and mailing of participant of the competition.
                                         </p>
                                         <p>
-                                            NexusBolt-tech and Myself(SpotDEV) worked on the project. NexusBolt-tech worked on the most part of the front-end, I also worked some part of the front-end and fully worked on the back-end.
+                                             Myself(SpotDEV) and NEXUS-Bolt worked on this project. I worked on redesigning of the project and  full Back-end deployment.
                                         </p>
                                         <h5><a href='https://ftichallenge.com' className='text-white fw-bolder'>View Project</a></h5>
                                         <h1><FontAwesomeIcon icon={faQuoteRight} className=" border-bottom" /></h1>
