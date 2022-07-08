@@ -39,8 +39,8 @@ function About() {
                         <FadeIn className='col'>
                             <div className='col-lg-10 col' style={{ textAlign: 'justify', fontWeight: 'light', fontSize: '15px' }}>
                                 <h4>Experience</h4>
-                                <p>I've been a developer for over three years, working with other senior developers to learn about the field and to acquire the neccessary skill set required of a fullstack developer.</p>
-                                <p>I've worked in alot of joint projects which has help my growth and has increased my standard as a fullstack developer, making development not just Job but a part of me.</p>
+                                <p>I've been a developer for over three years, working with other senior developers to learn about the field and to acquire the neccessary skill-set required of a fullstack developer. I've worked in alot of joint projects which has help my growth and has increased my standard as a fullstack developer, making development not just a Job but a part of me.</p>
+                                <p></p>
                             </div>
                         </FadeIn>
 
@@ -58,9 +58,6 @@ const FadeinAnimation = keyframes`${fadeIn}`;
 
 const FadeInLeft = Styled.div`
 animation: 1s ${FadeinAnimationLeft}
-`
-const FadeInRight = Styled.div`
-animation: 1s ${FadeinAnimationRIght}
 `
 
 const FadeIn = Styled.div`
